@@ -1,0 +1,9 @@
+c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollectorForm\CertificateCollectorForm\bin\Debug\CertificateCollectorForm.exe.config
+c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollectorForm\CertificateCollectorForm\bin\Debug\CertificateCollectorForm.exe
+c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollectorForm\CertificateCollectorForm\bin\Debug\CertificateCollectorForm.pdb
+c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.csprojResolveAssemblyReference.cache
+c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.Form1.resources
+c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.Properties.Resources.resources
+c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.csproj.GenerateResource.Cache
+c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.exe
+c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.pdb
