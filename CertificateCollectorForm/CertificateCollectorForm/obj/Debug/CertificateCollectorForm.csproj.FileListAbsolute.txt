@@ -7,3 +7,12 @@ c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollect
 c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.csproj.GenerateResource.Cache
 c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.exe
 c:\users\david.kalacska\documents\visual studio 2015\Projects\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.pdb
+C:\Users\david.kalacska\Source\Repos\kaldav\CertificateCollector\CertificateCollectorForm\CertificateCollectorForm\bin\Debug\CertificateCollectorForm.exe.config
+C:\Users\david.kalacska\Source\Repos\kaldav\CertificateCollector\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.exe
+C:\Users\david.kalacska\Source\Repos\kaldav\CertificateCollector\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.pdb
+C:\Users\david.kalacska\Source\Repos\kaldav\CertificateCollector\CertificateCollectorForm\CertificateCollectorForm\bin\Debug\CertificateCollectorForm.exe
+C:\Users\david.kalacska\Source\Repos\kaldav\CertificateCollector\CertificateCollectorForm\CertificateCollectorForm\bin\Debug\CertificateCollectorForm.pdb
+C:\Users\david.kalacska\Source\Repos\kaldav\CertificateCollector\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.csprojResolveAssemblyReference.cache
+C:\Users\david.kalacska\Source\Repos\kaldav\CertificateCollector\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.Form1.resources
+C:\Users\david.kalacska\Source\Repos\kaldav\CertificateCollector\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.Properties.Resources.resources
+C:\Users\david.kalacska\Source\Repos\kaldav\CertificateCollector\CertificateCollectorForm\CertificateCollectorForm\obj\Debug\CertificateCollectorForm.csproj.GenerateResource.Cache
